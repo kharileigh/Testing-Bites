@@ -1,3 +1,9 @@
-*testing-bites-venv/*
+**/.DS_Store
 
+*-venv
+-venv
+*venv*
+_env
+-env
+testing-bites-venv
 
